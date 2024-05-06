@@ -1,6 +1,7 @@
-Thanks for downloading this template!
-
-Template Name: Vesperr
-Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Anggota Kelompok :
+Nama Anggota Kelompok
+HAFIZ ALDIN	  (2100018071)
+LATIFA RIANI DEWI (2100018075)
+RIDHO SAPUTRO	(2100018080)
+MUHAMMAD RISKI	(2100018078)
+MUHAMMAD KUS PRASETYO (2100018090)
